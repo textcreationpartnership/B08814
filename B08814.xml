@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The confession and execution of the prisoners at Tyburn on Wednesday the 17th of this instant May, 1676. Viz. Henry Seabrook, Elizabeth Longman, Robert Scot, [bracket] condemned the former sessions. Edward Wall, and Edward Russell. Giving a full and satisfactory account of their crimes, behaviours, discourses in prison, and last words (as neer as could be taken) at the place of execution. Published for a warning, to all that read it, to avoid the like wicked courses, which brought these poor people to this shameful end.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08814</idno>
+            <idno type="OCLC"> 80922349</idno>
+            <idno type="STC">Wing C5751</idno>
+            <idno type="STC">ESTC R171486</idno>
+            <idno type="EEBO-CITATION">80922349</idno>
+            <idno type="OCLC">ocm 80922349</idno>
+            <idno type="VID">191844</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08814)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191844)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2892:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The confession and execution of the prisoners at Tyburn on Wednesday the 17th of this instant May, 1676. Viz. Henry Seabrook, Elizabeth Longman, Robert Scot, [bracket] condemned the former sessions. Edward Wall, and Edward Russell. Giving a full and satisfactory account of their crimes, behaviours, discourses in prison, and last words (as neer as could be taken) at the place of execution. Published for a warning, to all that read it, to avoid the like wicked courses, which brought these poor people to this shameful end.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for D.M.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>[1676]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With permission, Ro. L'Estrange."</note>
+                  <note>Reproduction of original in the Guildhall Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Seabrook, Henry, d. 1676.</term>
+               <term>Longman, Elizabeth, d. 1676.</term>
+               <term>Scot, Robert, d. 1676.</term>
+               <term>Wall, Edward, d. 1676.</term>
+               <term>Russell, Edward, d. 1676.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:191844:1" rendition="simple:additions"/>
+            <p>THE CONFESSION AND EXECUTION Of the PRISONERS at TYBURN On <hi>Wedneſday</hi> the 17th of this Inſtant <hi>May,</hi> 1676.
+<list>
+                  <head>Viz.</head>
+                  <item>
+                     <list>
+                        <item>
+                           <hi>Henry Seabrook,</hi>
+                        </item>
+                        <item>
+                           <hi>Elizabeth Longman,</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Scot,</hi>
+                        </item>
+                     </list> Condemned the former Seſſions.</item>
+                  <item>
+                     <hi>Edward Wall,</hi>
+                  </item>
+                  <item>and <hi>Edward Ruſſell.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Giving a full and ſatisfactory Account of their Crimes, Behaviours, Diſcourſes in Priſon, and laſt Words (as neer as could be taken) at the place of Execution.</p>
+            <p>Publiſhed for a Warning, to all that read it, to avoid the like wicked Courſes, which brought theſe poor people to this ſhameful End.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>With Permiſſion,</p>
+                  <closer>
+                     <signed>Ro. L'Eſtrange.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>D. M.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="execution_account">
+            <pb facs="tcp:191844:2"/>
+            <pb n="3" facs="tcp:191844:2" rendition="simple:additions"/>
+            <head>THE CONFESSION AND EXECUTION OF THE PRISONERS AT TYBURN On <hi>Wedneſday</hi> the 17th of <hi>May,</hi> 1676.</head>
+            <p>AT the Seſſions for <hi>London</hi> and <hi>Mid<g ref="char:EOLhyphen"/>dleſex</hi> held at Juſtice hall in the <hi>Old bayly,</hi> on Wedneſday and Thurſday the 10th and 11th of this Inſtant <hi>May,</hi> 1676.</p>
+            <p>There were in all Nine perſons condemned to ſuffer death for their ſeveral Crimes; of which a particular Relation having already been publiſhed, we ſhall not here waſt our own or the Readers time with an impertinent Re<g ref="char:EOLhyphen"/>petition.</p>
+            <pb n="4" facs="tcp:191844:3"/>
+            <p>However, Mercy ſo far interpoſed after the Sentence of Juſtice, that only Five of them actually ſuffered: Amongſt whom was <hi>Eli<g ref="char:EOLhyphen"/>zabeth Longman,</hi> an old Offendor, having been above a Dozen ſeveral times in <hi>Newgate:</hi> Some time ſince ſhe was convicted, and ob<g ref="char:EOLhyphen"/>tained the benefit and favour of Tranſporta<g ref="char:EOLhyphen"/>tion, and was accordingly carried into <hi>Virgi<g ref="char:EOLhyphen"/>nia:</hi> But <hi>Coelum, non Animum mutant, qui trans mare currunt.</hi> She had not been there above Fourteen Moneths, before ſhe procured Monies remitted from ſome of the Brother<g ref="char:EOLhyphen"/>hood here, wherewith ſhe bought off her Ser<g ref="char:EOLhyphen"/>vitude, and over ſhe comes again into <hi>En<g ref="char:EOLhyphen"/>gland,</hi> long before the term of her Sentence was expired. Nor was ſhe content to violate the Law only in that point, but returned to her old Trade (for ſo theſe people call ſteal<g ref="char:EOLhyphen"/>ing) as well as to her Countrey; and was ſoon after her Arrival conducted to <hi>Newgate,</hi> for miſtaking ſeveral parcels of Silk, upon which being Convicted, and pleading her Belly, ſhe was ſet by the laſt Seſſions before this: But now it appearing that ſhe was highly acceſſary (though all the while in <hi>Newgate)</hi> to the Rob<g ref="char:EOLhyphen"/>bery of a Perſon of Quality, and that ſhe was wholly incorrigible, not to be reclaimed by any Warnings, ſhe was brought down again to the Bar, and demanded, what ſhe could ſay for her ſelf, why ſhe ſhould not ſuffer Death, according to Law, upon her old Judgment. To which ſhe ſtill pleaded, that
+<pb n="5" facs="tcp:191844:3" rendition="simple:additions"/> ſhe was quick with Child. But being ſearched by a Jury of Matrons, they found no ſuch thing; ſo that ſhe was carried with the reſt into the Hole, and ordered for Execution. As for her behaviour, I am ſorry no better account can be given of it; for truely ſhe did not ſeem ſo ſenſible of her End, or to make that ſerious preparation for it, as night be expected from a Perſon in her condition: yet were not the charitable aſſiſtances and endea<g ref="char:EOLhyphen"/>vours of the Ordinary and ſeveral other Mi<g ref="char:EOLhyphen"/>niſters wanting towards her, though 'tis feared they did not make the wiſht-for Impreſſions upon her Spirit.</p>
+            <p>Two othes <hi>viz. Edward Wall</hi> and <hi>Edward Ruſſel</hi> that ſuffered, were brought to this un<g ref="char:EOLhyphen"/>timely and ignominious End, by the means and ſeducements of this unhappy Woman. For they together with one <hi>A. M.</hi> going after the former Seſſions to a Gentlemans Houſe, to ſollicite and engage his Intereſt, in order to the obtaining of a Reprieve for a Woman that paſt for one of their Wives, and was then under Condemnation, they chanced to ſpie the Maid a ſcowring a very conſiderable quantity of Plate, the glittering ſight whereof ſo much affected them, that when they came back to <hi>Newgate,</hi> to give an account of their buſineſs, amongſt other diſcourſe, they mentioned what abundance of Plate they ſaw. And will you only ſee it? (ſays this <hi>Beſſe Longman,</hi> being by) then you deſerve to ſtarve indeed, when
+<pb n="6" facs="tcp:191844:4"/> Fortune puts a Booty, as it were, in your Mouths, and you are ſuch Cowards, that you dare not take it: With theſe and many other words to that purpoſe, ſhe animated them on ſo far, till by her Inſtigation and the Devils together, they reſolved upon the Villany, and accordingly went the next Night, broke open the Gentlemans Houſe, and took thence a great quantity of Plate: But upon deſcrip<g ref="char:EOLhyphen"/>tion and ſearch, <hi>A. M:</hi> was taken next Morn<g ref="char:EOLhyphen"/>ing on <hi>Saffron-hill,</hi> with a Silver Ladle, a Sil<g ref="char:EOLhyphen"/>ver Porringer, and that famous Engine of Wickedneſs, called a <hi>Betty.</hi> He was carried for the preſent to <hi>New Priſon,</hi> and there kept till he had diſcovered the other Parties; and upon his ingenu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Confeſſion obtained the Mercy of a Reprieve from that Execution, which his Fellow Criminals now ſuffer'd.</p>
+            <p>The other perſon executed, was <hi>Henry Sea<g ref="char:EOLhyphen"/>brooke:</hi> He was condemned the former Seſ<g ref="char:EOLhyphen"/>ſions for robbing the Merchant at <hi>Dukes place;</hi> but upon his pretending to diſcover the reſt of the Cabal, and other great matters, was kept from the Gibbet all this while; but now failing to verifie thoſe pretentions, he was or<g ref="char:EOLhyphen"/>dered by the Court to receive his puniſhment according to his former Sentence, with the reſt of the Priſoners condemned this Seſſions.</p>
+            <p>Of theſe poor wretches, two, <hi>viz Wall</hi> and <hi>Ruſſell,</hi> as they ingenuouſly pleaded guilty to their Indictment at the Bar, ſo they behaved themſelves very modeſtly at their Condemna<g ref="char:EOLhyphen"/>tion;
+<pb n="7" facs="tcp:191844:4" rendition="simple:additions"/> and afterwards in Priſon when Miniſters came to viſit and diſcourſe with them, in order to their Souls everlaſting good, they received them with great expreſſions of joy and eſteem, attending with much reverence and ſeeming heed to their Spiritual Inſtructions, who with moſt neceſſary and importunate Exhortations preſſed them to a ſpeedy and hearty Repen<g ref="char:EOLhyphen"/>tance,</p>
+            <p>Since it ſtood them ſo much in hand, being upon the brink of Eternity, they told them, Their Condition was ſad, as being juſtly ſen<g ref="char:EOLhyphen"/>tenced by Men to a temporal Death; but that was infinitely ſhort of being condemned by God, and ſuffering Eternal Death under the fury of his Wrath: that though it was vain for them to flatter themſelves with hopes of <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onger life in this world, yet there were means left to ſecure them of Everlaſting Life in the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ext: and that to ſuch vile ſinners as they <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad been, it was an unſpeakable Mercy, that <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey had yet a little ſpace left them, wherein <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o make their peace with Heaven; and what <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould the damned Souls, weltring without <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ope in Eternal Flames, give or do for ſuch a <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>recious opportunity? With ſuch and many <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther pious Admonitions and Preſcriptions did <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heſe Spiritual Phyſitians endeavour to cure <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Ulcers of their Souls, and excite them to <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hrow off the peccant matter, and waſh away <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Iniquities with tears of a ſincere Repen<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ance, proceeding not from a ſenſe of approa<g ref="char:EOLhyphen"/>ching
+<pb n="8" facs="tcp:191844:5"/> Puniſhment, but of trouble for the Evil it ſelf, and their provoking of God thereby.</p>
+            <p>To all which they gave very great attenti<g ref="char:EOLhyphen"/>on, promiſing to put that bleſſed Advice in practice; and ſo continued in a very ſerious and laudable frame till the time of Execution, which was the 17th of this Inſtant <hi>May,</hi> being then conducted to <hi>Tyburn</hi> with vaſt numbers of people following the Carts to behold the laſt ſad Scene of their deplorable Tragedy.</p>
+            <p>Being come to the Gallows, and the uſual Prayers and Solemnities being performed, one of them ſpoke a pretty while to the Multi<g ref="char:EOLhyphen"/>tude, proteſting, <hi>This was the firſt Fact that he was ever actually guilty of, though he had been acceſſary to divers others, and had been all his days a very ill Liver; ſo that he could not but acknowledge that he ſuffer'd juſtly. He very much admoniſh'd all perſons to conſider their ways; eſpecially warning Youth not to miſ<g ref="char:EOLhyphen"/>ſpend their time in Idleneſs, or Diſobedience to Parents or Maſters; and to have a care of being ſeduced and drawn away by lewd women, affirming that ſuch Courſes and their Tempta<g ref="char:EOLhyphen"/>tions, and to ſatisfie their Luxury, had been originally the cauſe of his deſtruction, and that ſhameful death he was now going to ſuffer.</hi>
+            </p>
+            <p>The reſt ſaid very few words, unleſs to ſome particular Acquaintance; but by their Ge<g ref="char:EOLhyphen"/>ſtures ſeemed to pray ſecretly, and ſo were all Executed according to Sentence.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
